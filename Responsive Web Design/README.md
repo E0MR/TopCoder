@@ -8,3 +8,6 @@
 
 -- Learn CSS Colors by Building a Set of Colored Markers
 * https://e0mr.github.io/TopCoder/Responsive%20Web%20Design/Learn%20CSS%20Colors%20by%20Building%20a%20Set%20of%20Colored%20Markers/index.html
+
+-- Learn HTML Forms by Building a Registration Form
+* https://e0mr.github.io/TopCoder/Responsive%20Web%20Design/Learn%20HTML%20Forms%20by%20Building%20a%20Registration%20Form/index.html
