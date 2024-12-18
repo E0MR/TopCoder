@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Build a Survey Form Project</title>
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1 id="title">Build a Survey Form Project</h1>
+        <hr>
+        <p id="description">
+            Please fill this survey to help us improve our services.
+        </p>
+    </header>
+    <main>
+        <form action="" id="survey-form">
+            <fieldset>
+                <label for="name" id="name-label">Name</label>
+                <input id="name" type="text" placeholder="Name" required>
+            </fieldset>
+            <fieldset>
+                <label for="email" id="email-label">Email</label>
+                <input id="email" type="email" placeholder="Email" required>
+            </fieldset>
+            <fieldset>
+                <label for="number" id="number-label">Age</label>
+                <input id="number" type="number" required placeholder="24" min="20" max="70">
+            </fieldset>
+            <fieldset>
+                <select name="games" id="dropdown">
+                    <option value="">Love Games?</option>
+                    <option value="yes">Yes</option>
+                    <option value="no">No</option>
+                    <option value="other">None</option>
+                </select>
+            </fieldset>
+            <fieldset>
+                Gender:
+                <br><br>
+                <label for="male"><input type="radio" name="gender" id="male" value="male"> Male</label><label
+                    for="female"><input type="radio" name="gender" id="female" value="female"> Female</label>
+            </fieldset>
+            <fieldset>
+                Interests:
+                <br><br>
+                <input type="checkbox" value="programming"> Programming
+                <br>
+                <input type="checkbox" value="reading"> Reading
+                <br>
+                <input type="checkbox" value="sports"> Sports
+            </fieldset>
+            <fieldset>
+                Comment:
+                <br>
+                <textarea name="comment" id="comment"></textarea>
+            </fieldset>
+            <button id="submit" type="submit">Submit</button>
+        </form>
+    </main>
+
+    <footer>
+        Copyright &copy; EMR 2024
+    </footer>
+</body>
+
+</html>

@@ -1,0 +1,87 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  color: #fff;
+  background-color: #000;
+}
+
+header {
+  margin: 2rem;
+  text-align: center;
+
+  hr {
+    max-width: 500px;
+    margin: 1rem auto;
+  }
+}
+
+main {
+  color: #000;
+  form {
+    display: flex;
+    flex-flow: column;
+    width: 50%;
+    max-width: 500px;
+    padding: 1rem;
+    margin: 0 auto;
+    border-radius: 1rem;
+    background-color: #5a8d8d;
+    gap: 1rem;
+
+    fieldset {
+      all: unset;
+      width: 100%;
+
+      input[required] {
+        width: 100%;
+        padding: 0.5rem;
+      }
+
+      label[for="male"],
+      label[for="female"] {
+        display: inline-block;
+        width: 50%;
+      }
+
+      select {
+        width: 100%;
+        padding: 0.5rem;
+      }
+
+      input[type="checkbox"] {
+        margin-left: 1rem;
+      }
+
+      textarea {
+        width: 100%;
+        min-width: 100%;
+        max-width: 100%;
+        min-height: 3rem;
+        max-height: 5rem;
+        padding: 0.5rem;
+      }
+    }
+    button {
+      all: unset;
+      padding: 0.5rem;
+      border-radius: 0.5rem;
+      background-color: #fff;
+      cursor: pointer;
+      text-align: center;
+
+      &:hover {
+        color: #fff;
+        background-color: #000;
+      }
+    }
+  }
+}
+
+footer {
+  margin: 2rem;
+  text-align: center;
+}

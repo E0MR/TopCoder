@@ -11,3 +11,6 @@
 
 -- Learn HTML Forms by Building a Registration Form
 * https://e0mr.github.io/TopCoder/Responsive%20Web%20Design/Learn%20HTML%20Forms%20by%20Building%20a%20Registration%20Form/index.html
+
+-- Build a Survey Form Project
+* https://e0mr.github.io/TopCoder/Responsive%20Web%20Design/Build%20a%20Survey%20Form%20Project/index.html
