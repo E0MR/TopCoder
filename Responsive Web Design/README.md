@@ -14,3 +14,6 @@
 
 -- Build a Survey Form Project
 * https://e0mr.github.io/TopCoder/Responsive%20Web%20Design/Build%20a%20Survey%20Form%20Project/index.html
+
+-- Learn the CSS Box Model by Building a Rothko Painting
+* https://e0mr.github.io/TopCoder/Responsive%20Web%20Design/Learn%20the%20CSS%20Box%20Model%20by%20Building%20a%20Rothko%20Painting/index.html
