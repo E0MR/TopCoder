@@ -35,3 +35,7 @@
 09]
 -- Learn Accessibility by Building a Quiz
 * https://e0mr.github.io/TopCoder/Responsive%20Web%20Design/Learn%20Accessibility%20by%20Building%20a%20Quiz/index.html
+
+10] 
+-- Build a Tribute Page Project
+* https://e0mr.github.io/TopCoder/Responsive%20Web%20Design/Build%20a%20Tribute%20Page%20Project/index.html

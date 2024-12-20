@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+main {
+  flex-flow: column;
+  text-align: center;
+
+  h1 {
+    padding: 2rem 0 0;
+  }
+
+  figure {
+    margin: 2rem 0;
+    img {
+      display: block;
+      width: 40%;
+      max-width: 100%;
+      height: auto;
+      margin: auto;
+    }
+  }
+
+  p {
+    margin: 2rem 0;
+  }
+}
