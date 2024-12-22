@@ -39,3 +39,19 @@
 10] 
 -- Build a Tribute Page Project
 * https://e0mr.github.io/TopCoder/Responsive%20Web%20Design/Build%20a%20Tribute%20Page%20Project/index.html
+
+11]
+-- Learn More About CSS Pseudo Selectors By Building A Balance Sheet
+* https://e0mr.github.io/TopCoder/Responsive%20Web%20Design/Learn%20More%20About%20CSS%20Pseudo%20Selectors%20By%20Building%20A%20Balance%20Sheet/index.html
+
+12]
+-- Learn Intermediate CSS by Building a Picasso Painting
+* https://e0mr.github.io/TopCoder/Responsive%20Web%20Design/Learn%20Intermediate%20CSS%20by%20Building%20a%20Picasso%20Painting/index.html
+
+13]
+-- Learn Responsive Web Design by Building a Piano
+* https://e0mr.github.io/TopCoder/Responsive%20Web%20Design/Learn%20Responsive%20Web%20Design%20by%20Building%20a%20Piano/index.html
+
+14]
+-- Build a Technical Documentation Page Project
+* https://e0mr.github.io/TopCoder/Responsive%20Web%20Design/Build%20a%20Technical%20Documentation%20Page%20Project/index.html
