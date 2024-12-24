@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "1.0.0",
 	"author": "Mohammad Ragab",
+	"description": "My First APP",
+	"keywords": [ "Backend", "npm", "freecodecamp" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
