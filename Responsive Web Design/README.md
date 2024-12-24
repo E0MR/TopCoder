@@ -74,8 +74,8 @@
 
 19]
 -- Learn CSS Transforms by Building a Penguin
-* https://e0mr.github.io/TopCoder/Responsive%20Web%20Design/
+* https://e0mr.github.io/TopCoder/Responsive%20Web%20Design/Learn%20CSS%20Transforms%20by%20Building%20a%20Penguin/index.html
 
 20]
 -- Build a Personal Portfolio Webpage Project
-* https://e0mr.github.io/TopCoder/Responsive%20Web%20Design/
+* https://e0mr.github.io/TopCoder/Responsive%20Web%20Design/Build%20a%20Personal%20Portfolio%20Webpage%20Project/index.html
