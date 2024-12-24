@@ -55,3 +55,27 @@
 14]
 -- Build a Technical Documentation Page Project
 * https://e0mr.github.io/TopCoder/Responsive%20Web%20Design/Build%20a%20Technical%20Documentation%20Page%20Project/index.html
+
+15]
+-- Learn CSS Variables by Building a City Skyline
+* https://e0mr.github.io/TopCoder/Responsive%20Web%20Design/Learn%20CSS%20Variables%20by%20Building%20a%20City%20Skyline/index.html
+
+16]
+-- Learn CSS Grid by Building a Magazine
+* https://e0mr.github.io/TopCoder/Responsive%20Web%20Design/Learn%20CSS%20Grid%20by%20Building%20a%20Magazine/index.html
+
+17]
+-- Build a Product Landing Page Project
+* https://e0mr.github.io/TopCoder/Responsive%20Web%20Design/Build%20a%20Product%20Landing%20Page%20Project/index.html
+
+18]
+-- Learn CSS Animation by Building a Ferris Wheel
+* https://e0mr.github.io/TopCoder/Responsive%20Web%20Design/Learn%20CSS%20Animation%20by%20Building%20a%20Ferris%20Wheel/index.html
+
+19]
+-- Learn CSS Transforms by Building a Penguin
+* https://e0mr.github.io/TopCoder/Responsive%20Web%20Design/
+
+20]
+-- Build a Personal Portfolio Webpage Project
+* https://e0mr.github.io/TopCoder/Responsive%20Web%20Design/
