@@ -1,9 +1,14 @@
 01]
 -- Managing Packages with npm
-* https://e0mr-boilerplate-npm.glitch.me/
+* https://e0mr-boilerplate-npm.glitch.me
 
 02]
 -- Basic Node and Express
-* https://e0mr-boilerplate-express.glitch.me/
+* https://replit.com/@mohammad01ragab/boilerplate-express
 
-* Note: Links might not work because of free hosting.
+03] 
+-- MongoDB and Mongoose
+* https://replit.com/@mohammad01ragab/boilerplate-mongomongoose
+
+-- *Note:*
+        Links might not work because of free hosting.
